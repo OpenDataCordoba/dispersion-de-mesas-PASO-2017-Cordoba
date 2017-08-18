@@ -4,4 +4,5 @@ Dispersión de resultados de mesas de Córdoba y votos por partido en las elecci
 
 ![dispersion](img/dispersion.png)
 
-Los errores son propios de los resultados provisorios.
+Los errores son muchos pero son propios de resultados provisorios.
+Quedo visualizado y [disponible en Google Drive](https://docs.google.com/spreadsheets/d/1Bd3_nfniDIRh5EK3HkThVR7ozvmEIgP8GDjCOgLJU4Y/edit#gid=276658653).  
